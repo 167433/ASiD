@@ -1,0 +1,6 @@
+lab 6 
+  show() - w jaki sposób wykonać graficznie drzewo.
+  
+  _insert(self, node: BinaryNode, value: Any) -> BinaryNode, która doda nowy węzeł. - Czy ma dodać pojedyńczy węzeł. Jeżeli tak to czemu w ten sposób.
+  
+lab 7
